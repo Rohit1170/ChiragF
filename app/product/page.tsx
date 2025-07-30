@@ -9,7 +9,7 @@ const images = [
   { src: "/product1.jpg", alt: "Product 1" },
   {src:"/apron.jpg",alt:"apron"},
   {src:"/shirt.jpg",alt:"shirt"},
-  { src: "/Product2.jpg", alt: "Product 2" },
+  { src: "product2.jpg", alt: "Product 2" },
   { src: "/product3.jpg", alt: "Product 3" },
   { src: "/product4.jpg", alt: "Product 4" },
   { src: "/product5.jpg", alt: "Product 5" },
